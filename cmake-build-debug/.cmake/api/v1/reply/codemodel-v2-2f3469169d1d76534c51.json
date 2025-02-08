@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OU_Clion_Git",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OU_Clion_Git::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OU_Clion_Git-Debug-8db26c5716121d74fcc3.json",
+					"name" : "OU_Clion_Git",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/pawelknot/Documents/Studia/Sem 1/Oprogramowanie uz\u0307ytkowe/OU_Clion_Git/cmake-build-debug",
+		"source" : "/Users/pawelknot/Documents/Studia/Sem 1/Oprogramowanie uz\u0307ytkowe/OU_Clion_Git"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
